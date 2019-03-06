@@ -20,6 +20,7 @@ import android.view.View
 import android.view.inputmethod.EditorInfo
 import android.widget.ArrayAdapter
 import android.widget.TextView
+import android.widget.Filter
 
 import java.util.ArrayList
 import android.Manifest.permission.READ_CONTACTS
